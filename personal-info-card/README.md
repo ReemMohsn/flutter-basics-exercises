@@ -1,17 +1,17 @@
-# card
+# Personal Information Card
 
-A new Flutter project.
+A clean **Flutter** UI exercise showcasing a digital personal profile card with contact details.
 
-## Getting Started
+## ✨ Features
+- Circular profile avatar with name and title styling.
+- Structured contact cards (phone and email) with icons.
+- Custom typography and balanced spacing.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter** & **Dart**
+- Core concepts: `StatelessWidget`, `Column`, `CircleAvatar`, `Card`, `ListTile`, `Divider`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Design_apersonal_information_card" 
+## 🚀 Run Locally
+```bash
+flutter pub get
+flutter run
