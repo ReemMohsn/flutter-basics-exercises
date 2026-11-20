@@ -1,17 +1,17 @@
-# tatabug
+# Picture Matching Game
 
-A new Flutter project.
+A simple interactive **Flutter** game where the user taps images to randomize them and try to match both pictures.
 
-## Getting Started
+## ✨ Features
+- Random image generation on tap.
+- Instant visual feedback when both images match.
+- Responsive layout using Flutter flex widgets.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter** & **Dart**
+- Core concepts: `StatefulWidget`, `setState`, `dart:math` (`Random`), local image assets.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Picture_matching_game" 
+## 🚀 Run Locally
+```bash
+flutter pub get
+flutter run
