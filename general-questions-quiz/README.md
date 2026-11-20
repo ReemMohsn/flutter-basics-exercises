@@ -1,17 +1,17 @@
-# gess
+# General Questions Quiz
 
-A new Flutter project.
+A simple **Flutter** general-knowledge quiz application that presents questions, checks user answers, and tracks progress.
 
-## Getting Started
+## ✨ Features
+- Sequential general knowledge questions with answer validation.
+- Visual result indicators for right and wrong answers.
+- Quiz completion summary and reset flow.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter** & **Dart**
+- Core concepts: `StatefulWidget`, `setState`, Lists, OOP Models, `AlertDialog`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# General_Questiona_test_project" 
+## 🚀 Run Locally
+```bash
+flutter pub get
+flutter run
